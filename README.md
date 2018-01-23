@@ -8,4 +8,4 @@ Each Folder has the name of the week of the course, the missing ones are from we
 
 # Further development
 
-Since Python 3 is the main language for data science and especially for Machine Learning, i'll be passing all the work in R to Python3 to have all those basic implementations in Python 3.
+Since Python 3 is the main language for data science and especially for Machine Learning, i'll be passing all the work in R to Python 3.
